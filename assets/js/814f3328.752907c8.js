@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation_burse_project=self.webpackChunkdocumentation_burse_project||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/documentation_burse_project/blog/welcome","unlisted":false,"date":"2024-11-12T20:12:29.000Z"}]}')}}]);

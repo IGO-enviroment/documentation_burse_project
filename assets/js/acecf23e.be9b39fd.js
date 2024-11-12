@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation_burse_project=self.webpackChunkdocumentation_burse_project||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/documentation_burse_project/blog","blogTitle":"Blog","authorsListPath":"/documentation_burse_project/blog/authors"}')}}]);

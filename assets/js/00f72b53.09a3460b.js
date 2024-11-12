@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation_burse_project=self.webpackChunkdocumentation_burse_project||[]).push([[154],{228:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/documentation_burse_project/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
