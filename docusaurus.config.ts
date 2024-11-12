@@ -9,21 +9,15 @@ const config: Config = {
   tagline: 'Документация ',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://github.com',
+  baseUrl: '/documentation_burse_project/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'IGO', // Usually your GitHub org/user name.
-  projectName: 'documentation_burse', // Usually your repo name.
+  organizationName: 'IGO-enviroment',
+  projectName: 'documentation_burse_project',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  i18n: {
-    defaultLocale: 'ru',
-    locales: ['en', 'ru'],
-  },
 
   presets: [
     [
@@ -66,7 +60,6 @@ const config: Config = {
           position: 'left',
           label: 'Документация',
         },
-        {to: '/blog', label: 'Блог', position: 'left'},
         {
           href: 'https://github.com/IGO-enviroment',
           label: 'GitHub',
@@ -95,11 +88,11 @@ const config: Config = {
           items: [
             {
               label: 'Макеты',
-              href: 'd',
+              href: 'https://www.figma.com/design/dfWhWr7v9nPaxEbuFY114a/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-APP?node-id=0-1&t=WwNTheElkJ7uRtNN-1',
             },
             {
               label: 'Github',
-              href: 'd',
+              href: 'https://github.com/IGO-enviroment',
             },
           ],
         },
@@ -108,11 +101,11 @@ const config: Config = {
           items: [
             {
               label: 'Telegram',
-              href: 'd',
+              href: 'https://web.telegram.org/',
             },
             {
               label: 'VK',
-              href: 'd',
+              href: 'https://web.telegram.org/',
             },
           ],
         },
