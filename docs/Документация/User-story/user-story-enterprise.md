@@ -1,6 +1,6 @@
 ---
-title: Организация
-description: Стори организации.
+title: Предприятия
+description: Стори предприятия.
 slug: /enterprise-stories
 ---
 
